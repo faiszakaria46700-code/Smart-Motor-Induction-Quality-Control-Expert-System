@@ -1,0 +1,5 @@
+{
+  "name": "Smart Motor QC Expert System",
+  "description": "Induction motor monitoring system with IoT and rule-based expert system diagnosis.",
+  "requestFramePermissions": []
+}
